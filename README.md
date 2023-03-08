@@ -24,6 +24,6 @@ Actinic keratosis Basal cell carcinoma Dermatofibroma Melanoma Nevus Pigmented b
 
 ## Technologies Used
 
-Google Colab
-Python
-Tensorflow
+1. Google Colab
+2. Python
+3. Tensorflow
